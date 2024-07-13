@@ -14,7 +14,8 @@
 ```
 
 ```
-4. > Command for installing database driver for MySQL ==> mysqlclient (optional only if you are using MySQL database)
+4. > Command for installing database driver for MySQL
+   > mysqlclient (optional only if you are using MySQL database)
 ==> pip install mysqlclient
 ```
 
