@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c2978878-286a-472e-84ce-eb0332a500f2)
+
+
 ```
 1. > Command for installing fastapi
 ==> pip install fastapi
